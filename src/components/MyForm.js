@@ -46,7 +46,8 @@ const MyForm = () => {
           <input type="email" name='email' placeholder='Digite seu e-mail' onChange={(e) => setEmail(e.target.value)} />
           <input type='submit' value='Enviar' />
         </label>
-        {/* ENVIO DE FORM */}
+        {/* ENVIO DE FORM */}^
+        <h2 className='melecura'>eu amo o gui</h2>
       </form>
     </div>
   )

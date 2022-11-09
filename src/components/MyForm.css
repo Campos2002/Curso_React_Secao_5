@@ -10,3 +10,9 @@ select {
     display: block;
     margin-top: 10px;
 }
+
+.melecura {
+    color: pink;
+    background-color: black;
+    text-align: center;
+}
