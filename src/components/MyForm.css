@@ -1,4 +1,6 @@
-form {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.container {
     width: 500px;
     margin: 0 auto;
     text-align: left;
@@ -9,13 +11,17 @@ textarea,
 select {
     display: block;
     margin-top: 10px;
+    border-radius: 4px;
 }
 
-.melecura {
-    color: rgb(255, 247, 254);
-    background-color: rgb(130, 91, 238);
+.title {
+    color: rgb(255, 255, 255);
+    background-color: rgb(23, 170, 84);
     text-align: center;
-    border: 3px solid rgb(214, 187, 187);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
 }
 
 h2 {
