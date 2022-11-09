@@ -12,7 +12,12 @@ select {
 }
 
 .melecura {
-    color: pink;
-    background-color: black;
+    color: rgb(255, 247, 254);
+    background-color: rgb(130, 91, 238);
     text-align: center;
+    border: 3px solid rgb(214, 187, 187);
+}
+
+h2 {
+    font-size: 18px;
 }
